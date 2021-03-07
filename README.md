@@ -9,7 +9,7 @@ Important details about the data is :
 Dataset can be downloaded from 
 https://www.kaggle.com/zalando-research/fashionmnist
 
-The model is asequential with 2 Dense and 2 Dropout layers.
+This model is a simple sequential model with 2 Dense and 2 Dropout layers.
 
 Necessary Libraires or packages are:-
 - TensorFlow
@@ -17,3 +17,5 @@ Necessary Libraires or packages are:-
 - Numpy
 - Hyperas, Hyperopt
 - Matplotlib
+
+Main idea of this ipynb is to show how Hyper-parameter selection and tuning is done for Dense Networks using Hyperas
