@@ -1,5 +1,5 @@
 # Fashion MNIST
-<img src='fasion_mnist'>
+<img src='https://github.com/vanajac/fashion_mnist/blob/main/fasion_mnist.JPG'>
 Hyperas on Fashion-MNIST - Hyperparameter tuning for dense networks.
 Important details about the data is :
 - Contains 28x28 images of pieces of clothing
