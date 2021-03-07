@@ -1,4 +1,5 @@
-# fashion_mnist
+# Fashion MNIST
+![Image of FashionMnist]fashion_mnist.jpg
 Hyperas on Fashion-MNIST - Hyperparameter tuning for dense networks.
 Important details about the data is :
 - Contains 28x28 images of pieces of clothing
